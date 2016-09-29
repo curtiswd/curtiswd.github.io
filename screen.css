@@ -1,0 +1,11 @@
+html {
+background: linear-gradient(149deg, #2c4961, #3b6d9d);
+background-size: 400% 400%;
+
+animation: AnimationName 11s ease infinite;
+
+@keyframes AnimationName { 
+    0%{background-position:11% 0%}
+    50%{background-position:90% 100%}
+    100%{background-position:11% 0%}
+}
