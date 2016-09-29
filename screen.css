@@ -10,3 +10,11 @@ html {
     margin: 0;
     padding 0;
 } 
+
+header {
+    width: 100%;
+	text-align: center;
+	color: #DFDFDF;
+	background: none;
+	padding-top: 65px;
+}
