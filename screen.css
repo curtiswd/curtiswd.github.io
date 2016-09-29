@@ -1,18 +1,18 @@
 html {
-    background: linear-gradient(149deg, #2c4961, #3b6d9d);
-    background-size: 400% 400%;
-    animation: BackMove 10s ease infinite;
-    @keyframes BackMove { 
-        0%{background-position:11% 0%}
-        50%{background-position:90% 100%}
-        100%{background-position:11% 0%}
-    }
-    margin: 0;
-    padding 0;
+	background: linear-gradient(149deg, #2c4961, #3b6d9d);
+	background-size: 400% 400%;
+	animation: BackMove 10s ease infinite;
+	@keyframes BackMove { 
+        	0%{background-position:11% 0%}
+        	50%{background-position:90% 100%}
+        	100%{background-position:11% 0%}
+	}
+    	margin: 0;
+    	padding 0;
 } 
 
 header {
-    width: 100%;
+	width: 100%;
 	text-align: center;
 	color: #DFDFDF;
 	background: none;
@@ -25,4 +25,5 @@ h1, h2, h3, h4, h5 {
 
 img {
 	width: 15%;
+	display: block;
 }
