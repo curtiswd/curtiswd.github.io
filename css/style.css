@@ -15,7 +15,7 @@
   8. Height (px)
 */
 html, body {
-  background-color: #000;
+  background-color: rgb(3, 34, 6) ;
   text-align: center;
   padding: 10%;
 }
