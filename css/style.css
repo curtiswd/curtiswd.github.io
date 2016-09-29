@@ -151,11 +151,11 @@ html, body {
 }
 .content:after {
   left: 2px;
-  text-shadow: -1px 0 red;
+  text-shadow: -1px 0 rgba(255, 0, 0, 0.6);
   animation: glitch-anim-1 2s infinite linear alternate-reverse;
 }
 .content:before {
   left: -2px;
-  text-shadow: 2px 0 blue;
+  text-shadow: 2px 0 rgba(#0003ff, 0.6);
   animation: glitch-anim-2 3s infinite linear alternate-reverse;
 }
