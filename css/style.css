@@ -146,7 +146,7 @@ html, body {
   top: 0;
   left: 0;
   width: 100%;
-  background: black;
+  background: rgb(3, 34, 6);
   clip: rect(0, 0, 0, 0);
 }
 .content:after {
