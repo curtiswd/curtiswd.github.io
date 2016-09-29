@@ -15,7 +15,7 @@
   8. Height (px)
 */
 html, body {
-  background-color: rgb(61, 61, 61) ;
+  background-color: #1a1a1a ;
   text-align: center;
   padding: 10%;
 }
@@ -146,7 +146,7 @@ html, body {
   top: 0;
   left: 0;
   width: 100%;
-  background: rgb(61, 61, 61);
+  background: #1a1a1a;
   clip: rect(0, 0, 0, 0);
 }
 .content:after {
